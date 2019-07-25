@@ -1,0 +1,4 @@
+#node_model文件夹不添加
+node_modules/
+package.json
+package-lock.json
